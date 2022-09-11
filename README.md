@@ -13,7 +13,7 @@
 -   What i learnt in this project
     - css positions,margins,paddings,flex box and adding images to web page. 
     - added media query and made it responsive
-
+    - learned text decoration
 
 ---
 #### Screenshot
